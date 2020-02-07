@@ -12,3 +12,8 @@
 	path = JayVora-SerpentCS/DOST
 	url = git@github.com:JayVora-SerpentCS/DOST.git
 	branch = 12.0
+
+[submodule "JayVora-SerpentCS/Community_Portal"]
+	path = JayVora-SerpentCS/Community_Portal
+	url = git@github.com:JayVora-SerpentCS/Community_Portal.git
+	branch = 12.0
