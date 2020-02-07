@@ -2,3 +2,8 @@
 	path = JayVora-SerpentCS/fleet_management
 	url = git@github.com:JayVora-SerpentCS/fleet_management.git
 	branch = 12.0
+
+[submodule "JayVora-SerpentCS/SerpentCS_Contributions"]
+	path = JayVora-SerpentCS/SerpentCS_Contributions
+	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
+	branch = 12.0
