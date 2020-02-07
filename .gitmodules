@@ -22,3 +22,8 @@
 	path = gityopie/odoo-addons
 	url = git@github.com:gityopie/odoo-addons.git
 	branch = 9.0
+
+[submodule "gityopie/99"]
+	path = gityopie/99
+	url = git@github.com:gityopie/odoo-addons.git
+	branch = 12.0
