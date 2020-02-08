@@ -2,3 +2,8 @@
 	path = mtc-jordan/hotel_management_v1
 	url = git@github.com:mtc-jordan/hotel_management_v1.git
 	branch = master
+
+[submodule "OCA/website"]
+	path = OCA/website
+	url = git@github.com:OCA/website.git
+	branch = 12.0
