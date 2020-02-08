@@ -1,0 +1,4 @@
+[submodule "mtc-jordan/hotel_management_v1"]
+	path = mtc-jordan/hotel_management_v1
+	url = git@github.com:mtc-jordan/hotel_management_v1.git
+	branch = master
